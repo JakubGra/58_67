@@ -1,0 +1,20 @@
+A 
+{
+font-size: 18pt;
+text-decoration: none;
+}
+A:link 
+{
+color: blue;
+}
+A:visited 
+{
+color: green;
+}
+A:hover 
+{
+color: red;
+text-decoration: underline;
+}
+/* Właściwość text-decoration definiuje dekorację tekstu w linku. Wartością none usuwa podkreślenie i inne dekoracje. Wartość underline dodaje podkreślenie do tekstu.*/
+/* Jakub Grabski*/
